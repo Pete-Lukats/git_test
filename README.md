@@ -1,2 +1,1 @@
-# git_test
-Git test
+This is Pete's first git project
